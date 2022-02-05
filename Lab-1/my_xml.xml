@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mobiles>
+    <mobile>
+        <title>OnePlus</title>
+        <price>3000$</price>
+    </mobile>
+
+    <mobile>
+        <title>Nokia</title>
+        <price>6000$</price>
+    </mobile>
+</Mobiles>

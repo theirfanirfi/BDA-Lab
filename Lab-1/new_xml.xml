@@ -1,0 +1,10 @@
+<Mobiles>
+    <mobile>
+        <title>OnePlus</title>
+        <price>3000$</price>
+    </mobile>
+
+    <mobile>
+        <price>6000$</price>
+    </mobile>
+</Mobiles>
